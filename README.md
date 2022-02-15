@@ -218,7 +218,7 @@
 
 ## Screenshot
 
-![Screenshot](./img/survey_creation.PNG)
+![Screenshot](./img/survey_creation.png)
 
 
 
